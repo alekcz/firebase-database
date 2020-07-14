@@ -1,6 +1,6 @@
 # Firebase Emulator for the realtime database
 
-A minimal Dockerfile based on [timbru31/java-node](https://github.com/timbru31/docker-java-node)
+A minimal Dockerfile based on [timbru31/java-node](https://github.com/timbru31/docker-java-node) to run the firebase realtime database emulator.  
 
 ## What's included
 
