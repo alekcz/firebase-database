@@ -1,2 +1,2 @@
-# firebase-database
+# firebase-emulator
 Firebase emulator 
