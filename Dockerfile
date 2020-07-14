@@ -7,4 +7,4 @@ RUN yarn global add firebase-tools@${FIREBASE_TOOLS_VERSION} && \
     mkdir $HOME/.cache && \
     firebase setup:emulators:database
 
-ENTRYPOINT ["firebase", "emulators:start", "--only", "database"]
+ENTRYPOINT ["firebase", "emulators:exec", "--only", "database"]
