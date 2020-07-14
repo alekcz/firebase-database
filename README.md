@@ -6,4 +6,6 @@ A minimal Dockerfile based on [timbru31/java-node](https://github.com/timbru31/d
 
 - Firebase emulator running on port 9000 with no rules
 
+## License
+
 Built by (c) Alexander Oloo. Released under the MIT license.
